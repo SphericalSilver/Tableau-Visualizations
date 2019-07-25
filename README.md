@@ -7,8 +7,9 @@ Various Visualizations on Tableau. Links to my public Tableau Profile, as well a
 - [Jupyter Notebook link](https://github.com/SphericalSilver/Tableau-Visualizations/blob/master/SG%20Bus%20Exploration.ipynb) where some Data cleaning and processing was done. 
 
 Data was acquired from the datasets found here:
-https://data.gov.sg/dataset/fare-structure-for-trunk-bus-services
-https://data.gov.sg/dataset/fare-for-express-bus-services
+
+- https://data.gov.sg/dataset/fare-structure-for-trunk-bus-services
+- https://data.gov.sg/dataset/fare-for-express-bus-services
 
 The data was then processed and cleaned through Python, then visualized on Tableau.
 
@@ -24,5 +25,7 @@ The two Bus Types we looked at were [Express Buses](https://landtransportguru.ne
 Trunk buses navigate through an extensive network of routes, often passing through several different towns and estates. Express Bus Services are bus services that contain express sectors, by skipping bus stops or travelling by expressways, saving commuting time as compared to regular trunk services. These bus services charge Express fares.
 
 Fares for Feeder Bus services can be found [here](https://data.gov.sg/dataset/fare-for-feeder-bus-services). Since the fares for these are completely uniform and independent of distance travelled, they were not included in the visualization.
+
+Click the [Tableau Visualization Link](https://public.tableau.com/profile/suyash2542#!/vizhome/ExplorationofSGBusFares/ExplorationofSGBusFares) to see the Dashboard.
 
 
