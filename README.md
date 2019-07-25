@@ -4,12 +4,10 @@ Various Visualizations on Tableau. Links to my public Tableau Profile, as well a
 ## 1) Exploration of SG Bus Fare Structures
 
 - [Tableau Visualization Link](https://public.tableau.com/profile/suyash2542#!/vizhome/ExplorationofSGBusFares/ExplorationofSGBusFares)
-- [Jupyter Notebook link](https://github.com/SphericalSilver/Tableau-Visualizations/blob/master/SG%20Bus%20Exploration.ipynb) where some Data cleaning and processing was done. 
+- [Jupyter Notebook link](https://github.com/SphericalSilver/Tableau-Visualizations/blob/master/SG%20Bus%20Exploration.ipynb),  where some Data cleaning and processing was done. 
 
-Data was acquired from the datasets found here:
+Data was acquired from the datasets found here: [Trunk Bus Data](https://data.gov.sg/dataset/fare-structure-for-trunk-bus-services), [Express Bus Data](https://data.gov.sg/dataset/fare-for-express-bus-services)
 
-- https://data.gov.sg/dataset/fare-structure-for-trunk-bus-services
-- https://data.gov.sg/dataset/fare-for-express-bus-services
 
 The data was then processed and cleaned through Python, then visualized on Tableau.
 
