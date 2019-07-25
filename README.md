@@ -53,11 +53,11 @@ Some particularly noteworthy points were the following:
 The visualization can be found [here](https://public.tableau.com/profile/suyash2542#!/vizhome/HIVOccurrencesSingapore/Dashboard1).
 
 
-## 3) Customer Segmentation of Bank Customers.
+## 3) Segmentation of Bank Customers.
 
 The dataset used can be downloaded [here](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-UK-Bank-Customers.csv)
 
-Data from a bank was used to analyze the demographics of its customers to find out more about how they varied in each of the 4 regions.
+Data from a bank was used to analyze the demographics of its customers using a Tableau Dashboard to find out more about how they varied in each of the 4 regions.
 
 ### Key Insights
 
