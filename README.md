@@ -27,6 +27,31 @@ Fares for Feeder Bus services can be found [here](https://data.gov.sg/dataset/fa
 
 Click the [Tableau Visualization Link](https://public.tableau.com/profile/suyash2542#!/vizhome/ExplorationofSGBusFares/ExplorationofSGBusFares) to see the Dashboard.
 
+## 2) HIV occurrences in Singapore over 2008-2017.
+
+Data from data.gov.sg was found [here](https://data.gov.sg/dataset/hiv-notification-rate-per-million-population?resource_id=6a9550b5-3cf8-4f98-93c8-10368a133003). 
+
+Characteristics of HIV occurences over that period were broken down by year and scrutinized through a Dashboard.
+
+### Insights
+
+Generally, some trends seem to consistently hold true:
+
+- HIV victims are overwhelmingly male (generally 90-95%)
+- Ethnic compositions of HIV victims largely mirror Singapore's actual ethnic composition. In other words, there isn't a clear link between ethnic groups and HIV occurrence.
+- Heterosexual Sex and Homosexual Sex are the primary modes of transmission, generally both accounting for 85-90% of all HIV occurrences together.
+
+Some particularly noteworthy points were the following:
+
+- 2009 saw the highest proportion of female victims of HIV among all the 10 years, at 9.7%. During this year, Heterosexual Sex was also the leading mode of transmission by a very significant margin, accounting for 61.3% of occurrences.
+- In 2013, 2015, 2016, and 2017, homosexual sexual encounters were the leading modes of transmission, exceeding heterosexual sex. 
+- In the last 3 years on the dashboard especially, namely 2015, 2016, and 2017, Homosexual sex became the leading mode of transmission by a significant margin. This could be indicative of a rise in the tendency towards casual and unsafe sex among the demographic of homosexual males.
+
+
+### Visualization
+
+The visualization can be found [here](https://public.tableau.com/profile/suyash2542#!/vizhome/HIVOccurrencesSingapore/Dashboard1).
+
 
 ## 3) Customer Segmentation of Bank Customers.
 
@@ -34,12 +59,14 @@ The dataset used can be downloaded [here](https://sds-platform-private.s3-us-eas
 
 Data from a bank was used to analyze the demographics of its customers to find out more about how they varied in each of the 4 regions.
 
-Some notable insights were that:
+### Key Insights
 
 - Customers in Scotland are generally Male, above 40 years old, and predominantly Blue Collar workers. 
 - Customers form England have a high proportion of white collar workers, and the age distribution leans more towards people in their 20's or 30's.
 - Since Scotland and England have both the biggest customer-bases by a margin, but they are very different demographiaclly, it would make sense to adjust marketing and advertising tactics to suit each of those customer-bases differently.
     - For instance, customers in Scotland could be encouraged to save to plan ahead for retirement, and to take care of their families.
     - Customers in England could be motivated to save money for further education, and given further incentives like possibilities for loans to buy property with (since a lot of them are young people liekly just entering the workforce).
+
+### Visualization
 
 Click the [Tableau Visualization Link](https://public.tableau.com/profile/suyash2542#!/vizhome/CustomerSegmentationDashboardStory/Story1) to see the Dashboard.
