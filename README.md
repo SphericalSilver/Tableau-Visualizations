@@ -6,10 +6,11 @@ Various Visualizations on Tableau. Links to my public Tableau Profile, as well a
 - [Tableau Visualization Link](https://public.tableau.com/profile/suyash2542#!/vizhome/ExplorationofSGBusFares/ExplorationofSGBusFares)
 - [Jupyter Notebook link](https://github.com/SphericalSilver/Tableau-Visualizations/blob/master/SG%20Bus%20Exploration.ipynb),  where some Data cleaning and processing was done. 
 
-Data was acquired from the datasets found here: [Trunk Bus Data](https://data.gov.sg/dataset/fare-structure-for-trunk-bus-services), [Express Bus Data](https://data.gov.sg/dataset/fare-for-express-bus-services)
-
+Data was acquired from the datasets found here: [Trunk Bus Data](https://data.gov.sg/dataset/fare-structure-for-trunk-bus-services), and [Express Bus Data](https://data.gov.sg/dataset/fare-for-express-bus-services)
 
 The data was then processed and cleaned through Python, then visualized on Tableau.
+
+### The Visualization
 
 In particular, we looked at how Bus Fares varied for 5 different kinds of passengers:
 1. Regular Adult Fares
