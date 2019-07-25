@@ -28,3 +28,18 @@ Fares for Feeder Bus services can be found [here](https://data.gov.sg/dataset/fa
 Click the [Tableau Visualization Link](https://public.tableau.com/profile/suyash2542#!/vizhome/ExplorationofSGBusFares/ExplorationofSGBusFares) to see the Dashboard.
 
 
+## 3) Customer Segmentation of Bank Customers.
+
+The dataset used can be downloaded [here](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-UK-Bank-Customers.csv)
+
+Data from a bank was used to analyze the demographics of its customers to find out more about how they varied in each of the 4 regions.
+
+Some notable insights were that:
+
+- Customers in Scotland are generally Male, above 40 years old, and predominantly Blue Collar workers. 
+- Customers form England have a high proportion of white collar workers, and the age distribution leans more towards people in their 20's or 30's.
+- Since Scotland and England have both the biggest customer-bases by a margin, but they are very different demographiaclly, it would make sense to adjust marketing and advertising tactics to suit each of those customer-bases differently.
+    - For instance, customers in Scotland could be encouraged to save to plan ahead for retirement, and to take care of their families.
+    - Customers in England could be motivated to save money for further education, and given further incentives like possibilities for loans to buy property with (since a lot of them are young people liekly just entering the workforce).
+
+Click the [Tableau Visualization Link](https://public.tableau.com/profile/suyash2542#!/vizhome/CustomerSegmentationDashboardStory/Story1) to see the Dashboard.
