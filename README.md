@@ -76,3 +76,8 @@ Click the [Tableau Visualization Link](https://public.tableau.com/profile/suyash
 - [Tableau Dashboard Link](https://public.tableau.com/profile/suyash2542#!/vizhome/BillionaireCountbyYearandCountry/BillionaireCounts)
 - A [dataset](https://www.piie.com/publications/working-papers/origins-superrich-billionaire-characteristics-database) containing information on billionares was found here, and then imported into Python for some quick [processing](https://github.com/SphericalSilver/Tableau-Visualizations/blob/master/Billionaires2.ipynb), before being used in Tableau for creation of the dashboard.
 
+## 5) Singapore Dengue Fever Watch.
+
+- [Tableau Dashboard Link](https://public.tableau.com/profile/suyash2542#!/vizhome/DengueFeverWatch/Dashboard1)
+- A table from the [nea.gov.sg](https://www.nea.gov.sg/dengue-zika/dengue/dengue-clusters) site was scraped for information on Dengue Occurrences by location. A Python Script was written to extract the information from that table and convert it to a csv format that could be worked with smoothly in Tableau. 
+
