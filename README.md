@@ -79,5 +79,6 @@ Click the [Tableau Visualization Link](https://public.tableau.com/profile/suyash
 ## 5) Singapore Dengue Fever Watch.
 
 - [Tableau Dashboard Link](https://public.tableau.com/profile/suyash2542#!/vizhome/DengueFeverWatch/Dashboard1)
-- A table from the [nea.gov.sg](https://www.nea.gov.sg/dengue-zika/dengue/dengue-clusters) site was scraped for information on Dengue Occurrences by location. A Python Script ([linked](https://github.com/SphericalSilver/Tableau-Visualizations/blob/master/Web-Scraping%20Scripts.py) in this repository) was written to extract the information from that table and convert it to a csv format that could be worked with smoothly in Tableau. 
+- A table from the [nea.gov.sg](https://www.nea.gov.sg/dengue-zika/dengue/dengue-clusters) site was scraped for information on Dengue Occurrences by location. 
+A Python Script ([linked](https://github.com/SphericalSilver/Tableau-Visualizations/blob/master/Web-Scraping%20Scripts.py) in this repository) was written to extract the information from that table and convert it to a csv format that could be worked with smoothly in Tableau. This Python script was automated to run weekly, on every Monday, to collect the newest data available. 
 
